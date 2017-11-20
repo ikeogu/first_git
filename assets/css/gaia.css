@@ -248,6 +248,12 @@ a:hover {
 .separator-danger:before, .separator-danger:after {
   border-color: #e78b90;
 }
+.separator-primary {
+  color: #0000ff;
+}
+.separator-primary:before, .separator-primary:after {
+  border-color: #0000ff;
+}
 
 p.description {
   font-size: 16px;
